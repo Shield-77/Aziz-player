@@ -2,3 +2,5 @@
 Free MP3 player homebrew for Nintendo 3DS, featuring synchronized pitch and speed control, adjustable bass boost, shuffle, and more. The interface is in French. Use the bass boost responsibly and keep the volume at a safe level. The developer is not responsible for damage resulting from improper use.
 
  AI assistance was used to help develop this project. However, this only applies to code optimization and does not mean the application poses any danger to your console's hardware or system.
+
+This MP3 player has been thoroughly tested before being made public. As long as your MP3 files are compatible, you should not encounter any bugs during use.
