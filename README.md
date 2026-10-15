@@ -4,3 +4,4 @@ Free MP3 player homebrew for Nintendo 3DS, featuring synchronized pitch and spee
  AI assistance was used to help develop this project. However, this only applies to code optimization and does not mean the application poses any danger to your console's hardware or system.
 
 This MP3 player has been thoroughly tested before being made public. As long as your MP3 files are compatible, you should not encounter any bugs during use.
+Its free blah blah blah enjoy it !
