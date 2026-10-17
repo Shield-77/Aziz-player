@@ -6,3 +6,5 @@ Free MP3 player homebrew for Nintendo 3DS, featuring synchronized pitch and spee
 This MP3 player has been thoroughly tested before being made public. As long as your MP3 files are compatible, you should not encounter any bugs during use.
 
 Its free blah blah blah enjoy it !
+
+i sometimes forgot to add the update on github or to update the source code, my bad for that, im doing this on my free time And I'm trying to provide the features of a real, 100% free, portable DJ app. I'm sincerely sorry if there are any bugs; I don't really have the means to thoroughly check for bugs or if the application is incompatible with a model other than the original 3DS; I don't have any testers, just my old gaming PC and my good old 3DS which is miraculously still working, anyway, if it's buggy don't get angry and I hope you like my app!
