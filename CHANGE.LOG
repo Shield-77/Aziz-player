@@ -1,0 +1,111 @@
+
+Aziz Player by Yanis — Version History
+
+
+v1.2.27
+
+• START now exits the application. SELECT is freed up for a future function.
+
+v1.2.26
+
+• Removed the START shortcut that launched random folder playback.
+• Fixed the button prompts displayed on screen.
+
+v1.2.25
+
+• Red low-battery alert at 20% or less.
+• The alert disappears above 20% and when the charger is plugged in.
+
+v1.2.24
+
+• The library hides folders that do not directly contain any MP3 or OGG files.
+
+v1.2.23
+
+• Gradual restoration of system brightness when closing the player to prevent a flash.
+• The brightness stored by the console remains unchanged.
+
+v1.2.22
+
+• Increased spacing between commands displayed during playback to improve readability.
+
+v1.2.21
+
+• Fixed an OGG buffer calculation that could corrupt the end of audio blocks and cause glitches.
+
+v1.2.20
+
+• Total capacity and free space of the SD card are measured only once at startup.
+
+v1.2.19
+
+• Display of free and total SD space at the bottom of the upper screen.
+• Fixed an issue related to the HOME transition triggered by a brief press on POWER, which could freeze the console.
+
+v1.2.18
+
+• Pitch and speed range extended from 0.25× to 1.75×.
+• Reverted to four audio buffers to reduce reported glitches on OGG.
+
+v1.2.17
+
+• More robust OGG playback: recovery after certain isolated Vorbis packet errors.
+• Increased audio margin to reduce micro-stuttering on Old 3DS.
+
+v1.2.16
+
+• Added OGG Vorbis file playback.
+• OGG files support pitch/speed, bass profiles, and closed-lid playback.
+
+v1.2.15
+
+• Added EXTREME bass profile (+22 dB), selectable with Y during playback.
+
+v1.2.14
+
+• Reworked bass equalization with a wider low-shelf filter.
+• Increased differentiation between bass profiles.
+
+v1.2.13
+
+• Display of battery temperature and addition of a thermal alert.
+• Alert threshold set to 42°C on Nintendo 2DS Old and 45°C by default on other models.
+• Clarified help text: "Plug in headphones before activating sleep mode."
+
+v1.2.12
+
+• Simplified selection interface: button prompts that cluttered the list are now hidden.
+
+v1.2.11
+
+• Track list easier to navigate: six entries displayed at a time and increased spacing.
+• Track selection highlighted more clearly.
+
+v1.2.10
+
+• Fixed interface refreshing when exiting the playback screen.
+• Long filenames shortened to prevent them from overflowing the screen.
+
+v1.2.9
+
+• Adjustments to the track list display.
+
+v1.2.8
+
+• Thermal alert from 45°C on models other than the 2DS Old.
+• Temperature updated every 15 seconds.
+
+v1.2.7
+
+• Display of battery temperature at the bottom left of the lower screen.
+• Initial periodic temperature update, every five minutes.
+
+Features Present Since v1.2.6
+
+• MP3 playback from the SD card, with folder shuffle.
+• Continuous playback when the console is closed, with audio output through headphones.
+• Pitch adjustment synchronized with playback speed.
+• Brightness adjustment directly from the player.
+• Bass boost profiles.
+• Battery indicator in 5% increments.
+The displayed temperature is that of the battery. Thermal thresholds are warnings configured by the application; they do not measure CPU temperature.
