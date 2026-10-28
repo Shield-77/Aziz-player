@@ -16,4 +16,6 @@ I am doing everything I can to make the 3DS independent of computers etc., the g
 
 
 ## Splash fanart credit
-The Splatoon fanart used in Shield DJ Lite’s boot splash is by **kamrikeen**.
+The Splatoon fanart used in the Shield DJ Lite boot splash is by **kamrikeen**. 
+I truly love this piece, but unfortunately, I have been unable to get in touch with the artist and have received no response to date.
+Credit has been included on the fanart itself; however, if kamrikeen would like the artwork to be removed, I will do so as quickly as possible.
