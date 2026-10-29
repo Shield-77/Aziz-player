@@ -3,7 +3,7 @@ Free MP3 player homebrew for 3ds, featuring synchronized pitch and speed control
 
  AI assistance was used to help develop this project. However, this only applies to code (it will not kaboom do not worry).
 
-This MP3 player has been thoroughly tested before being made public. As long as your MP3 files are compatible, you should not encounter any bugs during use.
+This MP3 player has been thoroughly tested before being made public. As long as your MP3 files are compatible i think it will be good.
 
 Its free blah blah blah enjoy it !
 
