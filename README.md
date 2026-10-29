@@ -14,6 +14,7 @@ Many changes are currently being made; the application relies on all its buttons
 
 I am doing everything I can to make the 3DS independent of computers etc., the goal is to make the console able to do this without the help of another device.
 
+Je publierai le codes sources de ces apps le jour où je ne pourrais plus m'en occupées.
 
 ## Splash fanart credit
 The Splatoon fanart used in the Shield DJ Lite boot splash is by **kamrikeen**. 
