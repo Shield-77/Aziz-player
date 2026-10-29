@@ -3,7 +3,7 @@ Free MP3 player homebrew for 3ds, featuring synchronized pitch and speed control
 
  AI assistance was used to help develop this project. However, this only applies to code (it will not kaboom do not worry).
 
-This MP3 player has been thoroughly tested before being made public. As long as your MP3 files are compatible i think it will be good.
+This MP3 player has been thoroughly tested before being made public. As long as your MP3 files are compatible, i think it will be good.
 
 Its free blah blah blah enjoy it !
 
@@ -14,7 +14,7 @@ Many changes are currently being made; the application relies on all its buttons
 
 I am doing everything I can to make the 3DS independent of computers etc., the goal is to make the console able to do this without the help of another device.
 
-Je publierai le codes sources de ces apps le jour où je ne pourrais plus m'en occupées.
+Je publierai les codes sources de ces apps le jour où je ne pourrais plus m'en occupées.
 
 ## Splash fanart credit
 The Splatoon fanart used in the Shield DJ Lite boot splash is by **kamrikeen**. 
